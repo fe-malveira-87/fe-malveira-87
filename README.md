@@ -1,23 +1,21 @@
-# Oi, eu sou o Felipe Malveira
+## Oi! 👋 Eu sou o Felipe Malveira (🇧🇷)
 
-AI Architect e Tech Lead de IA. Desenho e coloco em produção agentes com LLMs na AWS e no GCP, sempre de olho em custo, governança e confiabilidade.
+Passei mais de 15 anos trabalhando com dados em empresas como Itaú, Santander, Mercado Pago, Cielo e OLX, e hoje sou **AI Architect** focado em **agentes de IA e LLMs em produção**.
 
-Antes da IA, passei mais de 15 anos em dados (Itaú, Santander, Mercado Pago, Cielo, OLX). É por isso que começo pelo problema de negócio e só depois escolho o modelo.
+Atualmente sou Tech Lead de IA na [Omie](https://www.omie.com.br), onde lidero um time de 5 pessoas e desenho soluções com LLMs na AWS (Bedrock, Lambda, API Gateway), cuidando de arquitetura, governança de IA (LGPD, avaliação de modelos) e custo de API.
 
-**No que trabalho hoje**
+A bagagem em dados é o que me faz começar pelo problema de negócio, e não pelo modelo. Gosto de construir agentes que executam tarefas em sistemas reais (ERP, CRM, PMS) via tool use e MCP, com fallback entre modelos, observabilidade e custo sob controle.
 
-- Sistemas multiagentes com Claude, Gemini e GPT: orquestração, RAG, tool use e MCP
-- Agentes que executam tarefas em sistemas reais (ERP, CRM, Hostaway, PriceLabs), não só respondem
-- AWS (Bedrock, Lambda, S3, API Gateway) e GCP (Vertex AI, Cloud Run, Eventarc)
-- Observabilidade e FinOps de LLM: custo por chamada, fallback entre modelos, avaliação de qualidade
-- Governança de IA: LGPD, dados sensíveis, guardrails, versionamento de prompts
+**No dia a dia:**
 
-**Stack**
+- 🤖 Sistemas multiagentes com Claude, Gemini e GPT: orquestração, RAG, tool use e MCP
+- ☁️ AWS (Bedrock, Lambda, S3, API Gateway) e GCP (Vertex AI, Cloud Run, Eventarc)
+- 📊 Observabilidade e FinOps de LLM: custo por chamada, fallback, avaliação de qualidade
+- 🔐 Governança de IA: LGPD, dados sensíveis, guardrails, versionamento de prompts
 
-`Python` `FastAPI` `React` `AWS Bedrock` `Lambda` `Vertex AI` `Cloud Run` `MCP` `RAG` `MongoDB` `SQL` `Docker` `IaC` `CI/CD`
+💼 **Disponível para oportunidades 100% remotas:** AI Architect ou Tech Lead de IA, PJ, freelance e projetos pontuais.
 
-**Contato**
+Quer falar comigo?
 
-[LinkedIn](https://www.linkedin.com/in/felipemalveira) · fe.malveira.87@gmail.com
-
-Disponível para oportunidades 100% remotas como AI Architect ou Tech Lead de IA: PJ, freelance e projetos pontuais.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemalveira)
+[![Email](https://img.shields.io/badge/fe.malveira.87@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fe.malveira.87@gmail.com)
