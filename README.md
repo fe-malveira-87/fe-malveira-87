@@ -1,6 +1,6 @@
 # Oi, eu sou o Felipe Malveira
 
-AI Architect e Tech Lead de IA em São Paulo. Desenho e coloco em produção agentes com LLMs na AWS e no GCP, sempre de olho em custo, governança e confiabilidade.
+AI Architect e Tech Lead de IA. Desenho e coloco em produção agentes com LLMs na AWS e no GCP, sempre de olho em custo, governança e confiabilidade.
 
 Antes da IA, passei mais de 15 anos em dados (Itaú, Santander, Mercado Pago, Cielo, OLX). É por isso que começo pelo problema de negócio e só depois escolho o modelo.
 
